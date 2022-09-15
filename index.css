@@ -18,10 +18,10 @@ body{
         max-height:470px;
         overflow-y:auto;
   }
-  @media (max-width: 1199.98px) { 
+  @media (max-width: 1400.98px) { 
     tbody {
       display:block;
-      max-height:400px;
+      max-height:410px;
       overflow-y:auto;
 }
   }
